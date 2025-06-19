@@ -1,0 +1,1 @@
+začala v roce 2068 a skončila v roce [[2075]]

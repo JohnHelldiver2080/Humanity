@@ -1,0 +1,1 @@
+Mars se nachází v [[Sluneční soustava]]

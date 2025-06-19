@@ -1,0 +1,3 @@
+člověk je původem z planety [[Země]]. Dlouhí tisíciletí mezi sebou bojoval ale kolem roku [[2075]] se pomalu začal federalizovat do jedno státu. Po [[3 světová válka]] se ale zbytek vlád co přežili spojili do [[Spojená Zemská federace]]. V roce 2080 kolonizoval [[Měsíc]] na terém postavil 3 města. Poté v roce 2095 začali kolonizovat [[Mars]] na kterém postavily 1 město a další se stavý.
+
+![[člověk.png]]

@@ -1,0 +1,1 @@
+Terminidí krev je používána k výrobě [[VP-11]]

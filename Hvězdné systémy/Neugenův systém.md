@@ -1,0 +1,1 @@
+Naugenův systém je hvězdný systém na kraji mléčné dráhy. Nachází se v něm planety: [[Eritia]]

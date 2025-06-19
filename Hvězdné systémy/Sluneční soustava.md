@@ -1,0 +1,1 @@
+planety [[Země]] [[Mars]] [[Měsíc]]

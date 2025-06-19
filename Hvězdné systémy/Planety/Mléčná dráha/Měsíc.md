@@ -1,0 +1,1 @@
+**Měsíc** je jediná známá přirozená družice [[Země]]

@@ -1,0 +1,1 @@
+je planeta v [[Neugenův systém]]
