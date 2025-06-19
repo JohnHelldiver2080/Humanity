@@ -8,7 +8,7 @@
 > Lokace |  |  [[Eritia]]
 > Výsledek | **výhra terminidů** |  
 > Strany |  [[Spojená Zemská federace]] - [[Terminidi - Fakce]] |
-> Ztráty | [[- 680 000      Terminidi - 1 200 000
+> Ztráty | SZF - 680 000      Terminidi - 1 200 000
 
 
 
