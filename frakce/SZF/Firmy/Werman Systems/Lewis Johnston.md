@@ -5,7 +5,7 @@
 >  |  |  
 > ---|---|   
 > Datum narození | 14. května 2054 |  
-> Místo původu |   USA ([[Spojená Zemská federace]])
+> Národnost| [[Spojená Zemská federace]]
 > Výroba | 2053-nyní |  
 >  ######  **Specifikace**
 >  |  |  
