@@ -3,3 +3,7 @@ Werman Systems je americký ([[Spojená Zemská federace|Zemský]]) obranný dod
 # Historie
 
 Společnost Werman založil v roce 2045 [[Lewis Johnston]] jako výrobce dělostřelectva [[Armáda SZF|SZF]].
+
+# Produkty
+
+MINOMETY**
