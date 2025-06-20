@@ -30,5 +30,5 @@ M350 střílí municí stabilizovanou ploutvemi z hladké hlavně. Přestože t�
 
 # Historie a nasazení
 
-
+M350 vstoupil do služby v armádě Spojených států v roce 2054.
 pouzivano [[ASZP]] [[SSSZF]][[Armáda SZF]] [[Spojená Zemská federace]]
