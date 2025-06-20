@@ -14,6 +14,7 @@
 > Osádka | 5
 >  | 
 >  Kalibr | 120 milimetrů
->  Kadence | 16 RPM
+>  Kadence | 16 RPM max
+>  Dosah | 8,240 metrů
 
 pouzivano [[ASZP]] [[SSSZF]][[Armáda SZF]] [[Spojená Zemská federace]]
