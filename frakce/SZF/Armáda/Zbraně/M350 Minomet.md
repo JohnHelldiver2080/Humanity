@@ -10,12 +10,5 @@
 >  ######  **Specifikace**
 >  |  |  
 > ---|---|   
-> Váha | 145.2 Kg
-> Osádka | 5
->  | 
->  Kalibr | 120 milimetrů
->  Kadence | 16 RPM max
->  Dosah | 8,240 metrů
->  Nabíjecí mechanizmus | manuální
 
 pouzivano [[ASZP]] [[SSSZF]][[Armáda SZF]] [[Spojená Zemská federace]]
