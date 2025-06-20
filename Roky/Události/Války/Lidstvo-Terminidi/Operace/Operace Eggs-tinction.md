@@ -13,7 +13,7 @@
 >  |  |  
 > ---|---|   
 > SZF | Terminidi
-> 122 000 personálu | 275 000 Terminidů
+> 122 000 personálu ([[SSSZF]], )| 275 000 Terminidů
 >241 tanků
 >12 BPV
 >100 VP
