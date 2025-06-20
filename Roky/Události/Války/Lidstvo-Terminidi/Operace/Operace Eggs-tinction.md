@@ -13,8 +13,9 @@
 >  |  |  
 > ---|---|   
 > SZF | Terminidi
-> 122 000 personálu ([[SSSZF]], )| 275 000 Terminidů
+> 122 000 personálu ([[SSSZF]], [[ASZP]])| 275 000 [[Terminidi]]
 >241 tanků
+>320 minometů ([[M350 Minomet]])
 >12 BPV
 >100 VP
 >2000 vozidel
