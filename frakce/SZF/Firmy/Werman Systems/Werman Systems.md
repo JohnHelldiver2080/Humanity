@@ -4,8 +4,8 @@
 > ######  
 >  |  |  
 > ---|---|   
-> Typ společnosti | Minomet |  
-> Místo původu |   USA ([[Spojená Zemská federace]])
+> Typ společnosti | Soukromá |  
+> Pr§mysl |   USA ([[Spojená Zemská federace]])
 > Výroba | 2053-nyní |  
 >  ######  **Specifikace**
 >  |  |  
