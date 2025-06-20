@@ -1,1 +1,3 @@
-**Operace Eggs-tinction** 
+**Operace Eggs-tinction** byla invaze [[Eritia|Eritie]] 
+
+8.června 2080 v 16:43 jednotky [[ASZP]] nečekaně zaútočily na hlavní [[Terminidí hnízda|Terminidí hnízdo]] při kterém zlikvidovaly 1300 [[Terminidi|Terminidů]]. Hlavním cílem [[ASZP]] bylo získat [[Terminidí krev]] z které by mohli poté vyrobit [[VP-11]].
