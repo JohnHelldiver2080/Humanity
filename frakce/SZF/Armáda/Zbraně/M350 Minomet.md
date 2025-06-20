@@ -6,8 +6,11 @@
 > ---|---|   
 > Typ | Minomet |  
 > Místo původu |   USA
-> Výsledek | **výhra terminidů** |  
-> Strany |  [[Spojená Zemská federace]] - [[Terminidi - Fakce]] |
-> Ztráty | SZF - 680 000      Terminidi - 1 200 000
+> Výroba | 2053-nyní |  
+>  ######  **Specifikace**
+>  |  |  
+> ---|---|   
+> Váha | 145.2 Kg
+> 
 
 pouzivano [[ASZP]] [[SSSZF]][[Armáda SZF]] [[Spojená Zemská federace]]
