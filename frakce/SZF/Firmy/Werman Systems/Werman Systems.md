@@ -10,4 +10,4 @@ Společnost Werman založil v roce 2045 [[Lewis Johnston]] jako výrobce dělost
 
 Společnost Werman navrhuje a vyrábí širokou škálu minometů pro různé vojenské aplikace. Soltam dodává různé minomety, například minomety s batohem, pod věží, tažené a samohybné minomety s odvalovacím mechanismem na kolových nebo pásových vozidlech. Všechny minomety se snadno ovládají a rychle nasazují. Minomety Soltam jsou vyrobeny z vysoce kvalitní legované oceli pro větší odolnost a stabilitu. Minomety jsou dodávány s veškerým pomocným vybavením nezbytným pro provoz v terénu, včetně počítače pro řízení palby, balistického počítače, INS a systémů pro vyhledávání a lokalizaci cílů. Všechny typy minometné munice používané po celém vesmíru jsou povoleny k použití s minomety Werman.
 
-Ł
+• 120 mm 
