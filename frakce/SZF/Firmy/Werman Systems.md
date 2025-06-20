@@ -1,1 +1,1 @@
-Werman Systems je americký ([[Spojená Zemská federace|Zemský]]) obranný dodavatel a výrobce kuchyňského vybavení se sídlem v Super Yorku v .
+Werman Systems je americký ([[Spojená Zemská federace|Zemský]]) obranný dodavatel a výrobce kuchyňského vybavení se sídlem v [[Super York|Super Yorku]] v .
