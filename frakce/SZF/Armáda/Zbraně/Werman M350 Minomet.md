@@ -23,7 +23,7 @@
 ![[M350 preview 0003.png]]
 
 # Přehled designu
-M350 střílí municí stabilizovanou ploutvemi z hladké hlavně. 
+M350 střílí municí stabilizovanou ploutvemi z hladké hlavně. Přestože těžké minomety vyžadují k přesunu nákladní automobily nebo pásové minonosky, jsou stále mnohem lehčí než polní dělostřelectvo. Překonávají lehké a střední minomety a jejich výbušná síla je mnohem větší.
 
 
 pouzivano [[ASZP]] [[SSSZF]][[Armáda SZF]] [[Spojená Zemská federace]]
