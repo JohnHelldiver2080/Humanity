@@ -1,0 +1,1 @@
+Werman Systems je amerycký ([[Spojená Zemská federace|Zemský]]) obranný dodavatel a výrobce kuchyňského vybavení se sídlem v Jokneamu v Izraeli.
