@@ -9,8 +9,8 @@
 > Založení | [[Lewis Johnston]] |  
 > Sídlo | [[Super York]], [[Sektor 6]]
 > Klíčové osoby| CEO. [[Lewis Johnston]]
->  Prod | 120 milimetrů
->  Kadence | 16 RPM max, 4 RPM
+>  Produkty | Palebná podpora
+>  Počet zaměstnanců| 640 (20)
 >  Dosah | 8,240 metrů
 >  Nabíjecí mechanizmus | manuální
 
