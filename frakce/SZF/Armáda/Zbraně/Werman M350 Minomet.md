@@ -18,7 +18,7 @@
 >  Dosah | 8,240 metrů
 >  Nabíjecí mechanizmus | manuální
 
-Werman M350 je minomet ráže 120mm, který vyvinula americká společnost 
+Werman M350 je minomet ráže 120mm, který vyvinula americká společnost [[Werman Systems]].
 
 
 
