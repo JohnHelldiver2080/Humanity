@@ -1,1 +1,1 @@
-**Lewis Johnston** is a American-born Israeli businessman. He gained wealth through the armament trade between the Finnish weapons manufacturer [Tampella](https://en.wikipedia.org/wiki/Tampella "Tampella") and Israel
+**Lewis Johnston** je izraelský podnikatel amerického původu. Zbohatl díky obchodu se zbraněmi mezi finským výrobcem zbraní Antella a USA.
