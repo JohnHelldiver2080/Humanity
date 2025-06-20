@@ -1,5 +1,5 @@
 > [!infobox]+  
-> # M350
+> # Welneng M350
 > ![[Eritia preview placeholder.png]]  
 > ######  
 >  |  |  
