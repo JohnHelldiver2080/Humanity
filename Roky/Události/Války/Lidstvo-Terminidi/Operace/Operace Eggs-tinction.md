@@ -1,12 +1,12 @@
 > [!infobox]+  
-> # 
+> # Operace Eggs-tinction
 > ![[Eritia preview placeholder.png]]  
 > ######  
 >  |  |  
 > ---|---|   
-> Datum | 8. června 2080- 26. prosince 2081 |  
+> Datum | 8. června 2080- 12. června 2080 |  
 > Lokace |   [[Eritia]]
-> Výsledek | **výhra terminidů** |  
+> Výsledek | **výhra SZF** |  
 > Strany |  [[Spojená Zemská federace]] - [[Terminidi - Fakce]] |
 > Ztráty | SZF - 680 000      Terminidi - 1 200 000
 
