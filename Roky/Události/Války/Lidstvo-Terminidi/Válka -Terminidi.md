@@ -1,2 +1,2 @@
 planety: Lidstvo:
-bitvy: [[Bitva na Eritii]]
+bitvy: [[Bitva o Eritii]]
