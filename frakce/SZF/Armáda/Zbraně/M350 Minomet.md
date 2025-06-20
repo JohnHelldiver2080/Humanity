@@ -1,6 +1,6 @@
 > [!infobox]+  
-> # Welneng M350
-> ![[Eritia preview placeholder.png]]  
+> # W M350
+> ![[M350 preview 0001.png]]  
 > ######  
 >  |  |  
 > ---|---|   
