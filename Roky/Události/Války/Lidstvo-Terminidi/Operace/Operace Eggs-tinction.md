@@ -1,3 +1,3 @@
-**Operace Eggs-tinction** byla invaze [[Eritia|Eritie]] [[Spojená Zemská federace|Spojenou Zemskou federací]] začínající 8. června 2080 , při [[Válka -Terminidi| Terminidí válce]]. V
+**Operace Eggs-tinction** byla invaze [[Eritia|Eritie]] [[Spojená Zemská federace|Spojenou Zemskou federací]] začínající 8. června 2080 , při [[Válka -Terminidi| Terminidí válce]]. Více než 100 000 jednotek [[ASZP]] 
 
 8.června 2080 v 16:43 jednotky [[ASZP]] nečekaně zaútočily na hlavní [[Terminidí hnízda|Terminidí hnízdo]] při kterém zlikvidovaly 1300 [[Terminidi|Terminidů]]. Hlavním cílem [[ASZP]] bylo získat [[Terminidí krev]] z které by mohli poté vyrobit [[VP-11]].
