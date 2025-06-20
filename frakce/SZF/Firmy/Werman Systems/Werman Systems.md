@@ -2,4 +2,4 @@ Werman Systems je americký ([[Spojená Zemská federace|Zemský]]) obranný dod
 
 # Historie
 
-Společnost Werman založil v roce 1950 Lewis Johnston jako výrobce dělostřelectva IDF.
+Společnost Werman založil v roce 1950 L[[Lewis Johnston]] jako výrobce dělostřelectva IDF.
