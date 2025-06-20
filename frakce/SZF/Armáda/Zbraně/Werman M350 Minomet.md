@@ -1,5 +1,5 @@
 > [!infobox]+  
-> # W M350
+> # Werman M350
 > ![[M350 preview 0001.png]]  
 > ######  
 >  |  |  
@@ -17,5 +17,9 @@
 >  Kadence | 16 RPM max
 >  Dosah | 8,240 metrů
 >  Nabíjecí mechanizmus | manuální
+
+Werman M350 je minomet ráže 120 
+
+
 
 pouzivano [[ASZP]] [[SSSZF]][[Armáda SZF]] [[Spojená Zemská federace]]
