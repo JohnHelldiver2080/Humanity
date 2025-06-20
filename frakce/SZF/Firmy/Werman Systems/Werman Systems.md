@@ -7,10 +7,9 @@
 > Typ společnosti | Soukromá |  
 > Průmysl |  Obranný
 > Založení | [[Lewis Johnston]] |  
-> Sídlo | [[sup]]
-> Osádka | 5
->  | 
->  Kalibr | 120 milimetrů
+> Sídlo | [[Super York]], [[Sektor 6]]
+> Klíčové osoby| CEO. [[Lewis Johnston]]
+>  Prod | 120 milimetrů
 >  Kadence | 16 RPM max, 4 RPM
 >  Dosah | 8,240 metrů
 >  Nabíjecí mechanizmus | manuální
