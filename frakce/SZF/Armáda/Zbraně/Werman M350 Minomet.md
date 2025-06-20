@@ -18,7 +18,7 @@
 >  Dosah | 8,240 metrů
 >  Nabíjecí mechanizmus | manuální
 
-Werman M350 je minomet ráže 120mm, který vyvinula americká společnost [[Werman Systems]]. Dříve byl využíván Armádou spojených států, nyní je používán [[Armáda SZF|Armádou SZF]]. Dokáže udržet rychlost střelby čtyři rány za minutu.
+Werman M350 je minomet ráže 120mm, který vyvinula americká společnost [[Werman Systems]]. Dříve byl využíván Armádou Spojených států, nyní je používán [[Armáda SZF|Armádou SZF]]. Dokáže udržet rychlost střelby čtyři rány za minutu.
 ![[M350 preview 0002.png]] 
 ![[M350 preview 0003.png]]
 
