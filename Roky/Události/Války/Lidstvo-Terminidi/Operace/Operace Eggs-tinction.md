@@ -1,3 +1,15 @@
+> [!infobox]+  
+> # 
+> ![[Eritia preview placeholder.png]]  
+> ######  
+>  |  |  
+> ---|---|   
+> Datum | 8. června 2080- 26. prosince 2081 |  
+> Lokace |   [[Eritia]]
+> Výsledek | **výhra terminidů** |  
+> Strany |  [[Spojená Zemská federace]] - [[Terminidi - Fakce]] |
+> Ztráty | SZF - 680 000      Terminidi - 1 200 000
+
 **Operace Eggs-tinction** byla invaze [[Eritia|Eritie]] [[Spojená Zemská federace|Spojenou Zemskou federací]] (SZF) začínající 8. června 2080 , při [[Válka -Terminidi| Terminidí válce]]. Více než 100 000 jednotek [[ASZP]] napadlo hlavní [[Terminidí hnízda|Terminidí hnízdo]], s hlavním cílem získat [[Terminidí krev]] z které se vytváří [[VP-11]]. Tento útok způsobil začátek [[Válka -Terminidi|Terminidí války]].
 
 
