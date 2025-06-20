@@ -23,7 +23,7 @@
 ![[M350 preview 0003.png]]
 
 # Přehled designu
-
+M350 střílí municí stabilizovanou ploutvemi z hladké hlavně. 
 
 
 pouzivano [[ASZP]] [[SSSZF]][[Armáda SZF]] [[Spojená Zemská federace]]
