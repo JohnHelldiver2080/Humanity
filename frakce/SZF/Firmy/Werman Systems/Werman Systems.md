@@ -5,12 +5,9 @@
 >  |  |  
 > ---|---|   
 > Typ společnosti | Soukromá |  
-> Pr§mysl |   USA ([[Spojená Zemská federace]])
-> Výroba | 2053-nyní |  
->  ######  **Specifikace**
->  |  |  
-> ---|---|   
-> Váha | 145.2 Kg
+> Průmysl |  Obranný
+> Založení | [[Lewis Johnston]] |  
+> Sídlo | [[sup]]
 > Osádka | 5
 >  | 
 >  Kalibr | 120 milimetrů
