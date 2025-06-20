@@ -1,4 +1,22 @@
-
+> [!infobox]+  
+> # Werman Systems
+> ![[M350 preview 0001.png]]  
+> ######  
+>  |  |  
+> ---|---|   
+> Typ společnosti | Minomet |  
+> Místo původu |   USA ([[Spojená Zemská federace]])
+> Výroba | 2053-nyní |  
+>  ######  **Specifikace**
+>  |  |  
+> ---|---|   
+> Váha | 145.2 Kg
+> Osádka | 5
+>  | 
+>  Kalibr | 120 milimetrů
+>  Kadence | 16 RPM max, 4 RPM
+>  Dosah | 8,240 metrů
+>  Nabíjecí mechanizmus | manuální
 
 Werman Systems je americký ([[Spojená Zemská federace|Zemský]]) obranný dodavatel a výrobce kalkulaček se sídlem v [[Super York|Super Yorku]] v [[Sektor 6|Sektoru 6]] . Společnost vyvíjí a vyrábí pokročilé dělostřelecké systémy, minomety, munici, periferní zařízení a kalkulačky od roku 2052. Mezi hlavní zákazníky společnosti patří [[Armáda SZF]].
 
