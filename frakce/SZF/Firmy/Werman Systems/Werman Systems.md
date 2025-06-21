@@ -13,7 +13,7 @@
 >  Počet zaměstnanců| 640 (2110)
 >  Webová stránka | www.wermansystems.com
 
-Werman Systems je americký ([[Spojená Zemská federace|Zemský]]) obranný dodavatel a výrobce kalkulaček se sídlem v [[Super York|Super Yorku]] v [[Sektor 6|Sektoru 6]] . Společnost vyvíjí a vyrábí pokročilé dělostřelecké systémy, minomety, munici, periferní zařízení a kalkulačky od roku 2075. Mezi hlavní zákazníky společnosti patří [[Armáda SZF]].
+Werman Systems je americký ([[Spojená Zemská federace|Zemský]]) obranný dodavatel a výrobce kalkulaček se sídlem v [[Super York|Super Yorku]] v [[Sektor 6|Sektoru 6]] . Společnost vyvíjí a vyrábí pokročilé dělostřelecké systémy, minomety, munici, periferní zařízení a kalkulačky od roku 2073. Mezi hlavní zákazníky společnosti patří [[Armáda SZF]].
 
 # Historie
 
