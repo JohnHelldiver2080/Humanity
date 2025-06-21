@@ -1,11 +1,11 @@
-> [!infobox]+  
+> [!infobox|right wikipedia]+  
 > # Lewis Johnston
 > ![[Lewis Johnston placeholder.png]]  
 > ######  
 >  |  |  
 > ---|---|   
 > Datum narození | 14. května 2054 |  
-> Národnost| [[Spojená Zemská federace]]
+> Národnost| :AdMiniSZF:[[Spojená Zemská federace]]
 > Povolání | Podnikatel |  
 > Známý pro | Založení [[Werman Systems]]
 

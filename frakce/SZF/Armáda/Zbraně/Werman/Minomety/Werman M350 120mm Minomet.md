@@ -5,7 +5,7 @@
 >  |  |  
 > ---|---|   
 > Typ | Minomet |  
-> Místo původu |   :AdMiniUSA:USA ([[Spojená Zemská federace]])
+> Místo původu |   :AdMiniUSA:USA :AdMiniSZF:([[Spojená Zemská federace]])
 > Výroba | 2073-nyní |  
 >  ######  **Specifikace**
 >  |  |  
