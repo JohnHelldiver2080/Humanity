@@ -9,7 +9,7 @@
 >  |  |  
 > ---|---|   
 > Typ vozidla | Hlavní bojový tank |  
-> Místo původu |   USA 🔥([[Spojená Zemská federace]])
+> Místo původu |   USA :LiAlignRight: ([[Spojená Zemská federace]])
 > Výroba | 2073-nyní |  
 >  ######  **Specifikace**
 >  |  |  
