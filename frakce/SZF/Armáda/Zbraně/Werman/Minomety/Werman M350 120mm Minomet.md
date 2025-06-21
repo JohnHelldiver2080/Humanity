@@ -1,4 +1,4 @@
-> [!infobox]+  
+> [!infobox|center wikipedia]+  
 > # Werman M350
 > ![[M350 preview 0001.png]]  
 > ######  
