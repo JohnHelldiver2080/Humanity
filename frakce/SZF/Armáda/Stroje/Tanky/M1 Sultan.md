@@ -5,7 +5,7 @@
 >  |  |  
 > ---|---|   
 > Typ vozidla | Hlavní bojový tank |  
-> Místo původu |   USA ![[mini flag SZF.png]] ([[Spojená Zemská federace]])
+> Místo původu |    USA ([[Spojená Zemská federace]]) ![[mini flag SZF.png]]
 > Výroba | 2073-nyní |  
 >  ######  **Specifikace**
 >  |  |  
