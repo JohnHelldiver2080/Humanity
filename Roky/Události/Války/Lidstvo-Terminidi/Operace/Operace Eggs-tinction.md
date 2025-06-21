@@ -1,4 +1,4 @@
-> [!infobox]+  
+> [!infobox|right wikipedia]+  
 > # Operace Eggs-tinction
 > ![[Eritia preview placeholder.png]]  
 > ######  
