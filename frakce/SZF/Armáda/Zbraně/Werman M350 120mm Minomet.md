@@ -30,4 +30,4 @@ M350 střílí municí stabilizovanou ploutvemi z hladké hlavně. Přestože t�
 
 # Historie a nasazení
 
-M350 vstoupil do služby v armádě Spojených států v roce 2054. Jeho úkolem je poskytovat veliteli jednotky nepřímou palebnou podporu těžkými zbraněmi s vysokým úhlem zásahu. M350 je v určitých situacích používán jak [[ASZP]], tak [[SSSZF]].
+M350 vstoupil do služby v armádě Spojených států v roce 2073. Jeho úkolem je poskytovat veliteli jednotky nepřímou palebnou podporu těžkými zbraněmi s vysokým úhlem zásahu. M350 je v určitých situacích používán jak [[ASZP]], tak [[SSSZF]].
