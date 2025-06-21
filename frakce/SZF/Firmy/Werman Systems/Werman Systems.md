@@ -1,6 +1,6 @@
 > [!infobox]+  
 > # Werman Systems
-> ![[M350 preview 0001.png]]  
+> ![[.png]]  
 > ######  
 >  |  |  
 > ---|---|   
