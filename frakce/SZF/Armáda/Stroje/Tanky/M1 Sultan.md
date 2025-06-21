@@ -1,7 +1,3 @@
-
-
-
-
 > [!infobox|right wikipedia]+  
 > # M1 Sultan
 > ![[M1 Sultan placeholder.png]]  
@@ -20,4 +16,4 @@
 >  Kalibr | 120 milimetrů
 >  Kadence | 16 RPM max, 4 RPM
 >  Dosah | 8,240 metrů
->  Nabíjecí mechanizmus | manuální
+>  Nabíjecí mechanizmus | manuálnía
