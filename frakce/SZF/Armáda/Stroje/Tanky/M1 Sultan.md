@@ -1,5 +1,5 @@
 
-:AdJtzt:
+
 
 
 > [!infobox|right wikipedia]+  
@@ -9,7 +9,7 @@
 >  |  |  
 > ---|---|   
 > Typ vozidla | Hlavní bojový tank |  
-> Místo původu |   USA :LiAlignRight: ([[Spojená Zemská federace]])
+> Místo původu |   USA :AdMiniSZF: ([[Spojená Zemská federace]])
 > Výroba | 2073-nyní |  
 >  ######  **Specifikace**
 >  |  |  
