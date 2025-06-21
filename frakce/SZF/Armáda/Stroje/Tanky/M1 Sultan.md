@@ -1,10 +1,10 @@
 > [!infobox]+  
 > # M1 Sultan
-> ![[M350 preview 0001.png]]  
+> ![[M1 Sultan placeholder.png]]  
 > ######  
 >  |  |  
 > ---|---|   
-> Typ | Minomet |  
+> Typ vozidla | Hlavní bojový tank |  
 > Místo původu |   USA ([[Spojená Zemská federace]])
 > Výroba | 2073-nyní |  
 >  ######  **Specifikace**
