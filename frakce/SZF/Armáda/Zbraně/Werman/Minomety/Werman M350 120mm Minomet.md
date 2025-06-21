@@ -20,10 +20,7 @@
 
 **Werman M350** je minomet ráže 120mm, který vyvinula americká společnost [[Werman Systems]]. Dříve byl využíván Armádou Spojených států, nyní je používán [[Armáda SZF|Armádou SZF]]. Dokáže udržet rychlost střelby čtyř ran za minutu.
 
-
-![[M350 preview 0002.png]] 
-![[M350 preview 0003.png]]
-
+> [!grid] > ![[M350 preview 0002.png]] > ![[M350 preview 0003.png]]
 
 # Přehled designu
 M350 střílí municí stabilizovanou ploutvemi z hladké hlavně. Přestože těžké minomety vyžadují k přesunu nákladní automobily nebo pásové minonosky, jsou stále mnohem lehčí než polní dělostřelectvo. Překonávají lehké a střední minomety a jejich výbušná síla je mnohem větší.
