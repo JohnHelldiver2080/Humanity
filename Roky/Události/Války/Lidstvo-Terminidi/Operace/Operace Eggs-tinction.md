@@ -7,7 +7,7 @@
 > Datum | 8. června 2080- 12. června 2080 |  
 > Lokace |   [[Eritia]]
 > Výsledek | **výhra SZF** |  
-> Strany |  [[Spojená Zemská federace]] - [[Terminidi - Fakce]] |
+> Strany |  :AdMiniSZF:[[Spojená Zemská federace]] - [[Terminidi - Fakce]] |
 > Ztráty | SZF - 30 000      Terminidi - 250 000
 >  ######  Síla
 >  |  |  
@@ -16,7 +16,7 @@
 > 122 000 personálu ([[SSSZF]], [[ASZP]])| 275 000 [[Terminidi]]
 >241 tanků
 >320 minometů ([[Werman M350 120mm Minomet]])
->12 BPV
+>12 BPV ([[M1 Sultan]])
 >100 VP ([[DA-10]])
 >2000 vozidel
 
