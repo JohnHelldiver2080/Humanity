@@ -2,8 +2,8 @@
 mapCalc1: NaN
 ---
 **---
-map_height_y: 2048  
-map_width_x: 1642  
+map_height_y: 509  
+map_width_x: 1024  
 scale_pixels: 268  
 scale_pixels_range: 25  
 mapCalc1: 0  
@@ -25,8 +25,8 @@ image: [[Map - Regional map of [[země_mapa.png]]]]
 bounds: [[0,0], [509, 1024]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 850px ### Size of the leaflet embed in px on your screen  
 width: 95% ### Size of the leaflet embed in your note  
-lat: 512 ### To center the map, make this half of the map height.  
-long: 821 ### To center the map, make this half of the map width.  
+lat: 512### To center the map, make this half of the map height.  
+long: 254 ### To center the map, make this half of the map width.  
 minZoom: -1.5 ### Controls how far away from the map you can zoom out. Hover over the target icon to see the current level.  
 maxZoom: 1 ### Controls how far towards the map you can zoom in. Hover over the target icon to see the current level.  
 defaultZoom: -1 ### Sets the default zoom level when the map loads. Hover over the target icon to see the current level.  
