@@ -1,12 +1,7 @@
 ---
 mapCalc1: NaN
----
-**---
-map_height_y: 509  
-map_width_x: 1024  
-scale_pixels: 268  
-scale_pixels_range: 25  
-mapCalc1: 0  
+map_width_x: 1024
+map_height_y: 509
 ---
 
 > [!NOTE]- Quick Calculator  
@@ -17,7 +12,6 @@ mapCalc1: 0
 > How Many Pixels In Scale: `INPUT[number:scale_pixels]`  
 > How Many Units in Scale: `INPUT[number:scale_pixels_range]`  
 > Scale: `VIEW[1/({scale_pixels}/{scale_pixels_range})][math:mapCalc1]`
-
 
 ```leaflet  
 id: MapCalcExample ### Must be unique with no spaces  
