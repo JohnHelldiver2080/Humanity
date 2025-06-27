@@ -22,7 +22,7 @@ mapCalc1: 0
 
 ```leaflet  
 id: MapCalcExample ### Must be unique with no spaces  
-image: [[Map - Regional map of Lampoteuo.png]] ### Link to the map image file. Do not add a ! in front of the image  
+image: [[Map - Regional map of země_mapa.png]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [2048, 1642]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 850px ### Size of the leaflet embed in px on your screen  
 width: 95% ### Size of the leaflet embed in your note  
